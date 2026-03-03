@@ -22,7 +22,7 @@ public class MainActivity extends Activity {
         mWebView.setWebViewClient(new MyWebViewClient());
 
         // REMOTE RESOURCE
-         mWebView.loadUrl("https://www.notion.so/sachinchopra/Sachin-Cheshta-f49709e60d4f48288a237ac787fcd06b");
+         mWebView.loadUrl("http://triglav1.duckdns.org:82/verstoringen.php");
         // https://bitly.cx/lxj4C
         // LOCAL RESOURCE
         // mWebView.loadUrl("file:///android_asset/index.html");
